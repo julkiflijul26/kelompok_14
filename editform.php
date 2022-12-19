@@ -111,8 +111,7 @@ $result = mysqli_query($conn, $query);
 						<button type="submit" class="btn btn-success btn-block">Update Buku</button>
 
 						<?php 
-		}
-		?>
+		}?>
 					</form>
 				</div>
 			</div>
